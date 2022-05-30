@@ -1,6 +1,4 @@
-# DBS311-Advanced-Database-Services
-
-## **Assignment 1**
+# **DBS311-Advanced-Database-Services-Assignment1**
 
 ### **Tasks**
 ### For each question, the columns' title and the format of the output
@@ -12,8 +10,7 @@
 > hire date of all employees hired in September with the most recently
 > hired employees displayed first.
 
-![](DBS311_Assignment1/media/image1.png){width="6.5in"
-height="0.8680555555555556in"}
+![](DBS311_Assignment1/media/image1.png)
 
 > **Milestone 2** 
 
